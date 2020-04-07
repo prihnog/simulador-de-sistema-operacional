@@ -30,7 +30,7 @@ public:
 	int getTempoTotal() {
 		return tempoTotal;
 	}
-	void setTempoTotal(int tempoRestante) {
+	void setTempoRestante(int tempoRestante) {
 		this->tempoRestante = tempoRestante;
 	}
 	int getTempoRestante() {

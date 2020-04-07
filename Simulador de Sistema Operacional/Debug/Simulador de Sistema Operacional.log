@@ -1,0 +1,5 @@
+﻿  Kernel.cpp
+  Simulador de Sistema Operacional.cpp
+  Gerando Código...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo indefinido _main referenciado na função "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\julia\source\repos\Simulador de Sistema Operacional\Debug\Simulador de Sistema Operacional.exe : fatal error LNK1120: 1 externo não resolvidos

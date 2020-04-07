@@ -5,7 +5,11 @@
 using namespace std;
 class CPU
 {
-	List <Processo> cores;
-
+private:
+	Processo **cores;
+public:
+	CPU(int tamanho) {
+		cores = new Processo*[tamanho];
+	}
 };
 
